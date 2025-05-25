@@ -1,0 +1,184 @@
+# Copyright (C) 2025 Paid Memberships Pro
+# This file is distributed under the same license as the Paid Memberships Pro - Pay by Check Add On plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Memberships Pro - Pay by Check Add On 1.1.3\n"
+"Report-Msgid-Bugs-To: info@paidmembershipspro.com\n"
+"Last-Translator: Paid Memberships Pro <info@paidmembershipspro.com>\n"
+"Language-Team: Paid Memberships Pro <info@paidmembershipspro.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-05T17:36:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: pmpro-pay-by-check\n"
+
+#. Plugin Name of the plugin
+#: pmpro-pay-by-check.php
+msgid "Paid Memberships Pro - Pay by Check Add On"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: pmpro-pay-by-check.php
+msgid "https://www.paidmembershipspro.com/add-ons/pmpro-pay-by-check-add-on/"
+msgstr ""
+
+#. Description of the plugin
+#: pmpro-pay-by-check.php
+msgid "A collection of customizations useful when allowing users to pay by check for Paid Memberships Pro levels."
+msgstr ""
+
+#. Author of the plugin
+#: pmpro-pay-by-check.php
+msgid "Paid Memberships Pro"
+msgstr ""
+
+#. Author URI of the plugin
+#: pmpro-pay-by-check.php
+msgid "https://www.paidmembershipspro.com"
+msgstr ""
+
+#: includes/admin.php:11
+#: includes/checkout.php:24
+msgid "Check"
+msgstr ""
+
+#: includes/admin.php:13
+msgid "Pay by %s Settings"
+msgstr ""
+
+#: includes/admin.php:14
+msgid "Change this setting to allow or disallow the \"Pay by %s\" option for this level."
+msgstr ""
+
+#: includes/admin.php:18
+msgid "Allow Paying by %s:"
+msgstr ""
+
+#: includes/admin.php:21
+msgid "No. Use the default gateway only."
+msgstr ""
+
+#: includes/admin.php:22
+msgid "Yes. Users choose between default gateway and %s."
+msgstr ""
+
+#: includes/admin.php:23
+msgid "Yes. Users can only pay by %s."
+msgstr ""
+
+#: includes/admin.php:28
+msgid "Send Renewal Emails:"
+msgstr ""
+
+#: includes/admin.php:30
+msgid "days before renewal."
+msgstr ""
+
+#: includes/admin.php:34
+msgid "Send Reminder Emails:"
+msgstr ""
+
+#: includes/admin.php:36
+#: includes/admin.php:42
+msgid "days after a missed payment."
+msgstr ""
+
+#: includes/admin.php:40
+msgid "Cancel Membership:"
+msgstr ""
+
+#: includes/checkout.php:33
+msgid "Choose Your Payment Method"
+msgstr ""
+
+#: includes/checkout.php:43
+msgid "Pay with PayPal"
+msgstr ""
+
+#: includes/checkout.php:45
+msgid "Pay with 2Checkout"
+msgstr ""
+
+#: includes/checkout.php:47
+msgid "Pay with PayFast"
+msgstr ""
+
+#: includes/checkout.php:49
+msgid "Pay by Credit Card"
+msgstr ""
+
+#: includes/checkout.php:56
+#: includes/checkout.php:274
+msgid "Pay by %s"
+msgstr ""
+
+#: includes/checkout.php:65
+msgid "Check Out with PayPal"
+msgstr ""
+
+#: includes/emails.php:90
+msgid "New Invoice for %s at %s"
+msgstr ""
+
+#: includes/emails.php:131
+#: includes/emails.php:204
+msgid "Discount Code"
+msgstr ""
+
+#: includes/emails.php:163
+msgid "Pending checkout for !!display_name!! at !!sitename!!"
+msgstr ""
+
+#: includes/emails.php:234
+msgid "Reminder: New Invoice for %s at %s"
+msgstr ""
+
+#: includes/frontend.php:24
+msgid "%sYour %s membership is pending.%s We are still waiting for payment for %syour latest invoice%s."
+msgstr ""
+
+#: includes/frontend.php:26
+msgid "%sImportant Notice:%s We are still waiting for payment on %sthe latest invoice%s for your %s membership."
+msgstr ""
+
+#: includes/frontend.php:53
+msgid "%sMembership pending.%s We are still waiting for payment of this invoice."
+msgstr ""
+
+#: includes/frontend.php:55
+msgid "%sImportant Notice:%s We are still waiting for payment of this invoice."
+msgstr ""
+
+#: includes/frontend.php:81
+msgid "Thank you for your membership to %1$s. Your %2$s membership status is: <b>%3$s</b>."
+msgstr ""
+
+#: includes/frontend.php:81
+msgid "Once payment is received and processed you will gain access to your membership content."
+msgstr ""
+
+#: includes/frontend.php:89
+msgid "Below are details about your membership account and a receipt for your initial membership invoice. A welcome email with a copy of your initial membership invoice has been sent to %s."
+msgstr ""
+
+#: includes/member-pending-deprecated.php:217
+msgid "Your payment is currently pending. You will gain access to this page once it is approved."
+msgstr ""
+
+#: pmpro-pay-by-check.php:54
+msgid "View Documentation"
+msgstr ""
+
+#: pmpro-pay-by-check.php:54
+msgid "Docs"
+msgstr ""
+
+#: pmpro-pay-by-check.php:55
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: pmpro-pay-by-check.php:55
+msgid "Support"
+msgstr ""
