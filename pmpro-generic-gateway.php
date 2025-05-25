@@ -21,17 +21,17 @@ Domain Path: /languages
 /*
         Settings, Globals and Constants
 */
-define( 'PMPRO_GENERIC_GATEWAY__DIR', dirname(__FILE__) );
-define( 'PMPRO_GENERIC_GATEWAY__BASE_FILE', __FILE__ );
+define( 'PMPRO_GENERIC_GATEWAY_DIR', dirname(__FILE__) );
+define( 'PMPRO_GENERIC_GATEWAY_BASE_FILE', __FILE__ );
 define( 'PMPROGPG_VER', '1.0' );
 
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/admin.php';
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/checkout.php';
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/crons.php';
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/emails.php';
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/frontend.php';
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/functions.php';
-require_once PMPRO_GENERIC_GATEWAY__DIR . '/includes/member-pending-deprecated.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/admin.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/checkout.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/crons.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/emails.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/frontend.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/functions.php';
+require_once PMPRO_GENERIC_GATEWAY_DIR . '/includes/member-pending-deprecated.php';
 
 /*
         Load plugin textdomain.
